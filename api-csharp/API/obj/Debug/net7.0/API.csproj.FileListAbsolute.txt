@@ -1,0 +1,463 @@
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/appsettings.Development.json
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/appsettings.json
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/API
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/API.deps.json
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/API.runtimeconfig.json
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/API.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/API.pdb
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Azure.Core.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Azure.Identity.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.ClientModel.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/de/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/es/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/fr/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/it/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/ja/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/ko/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/ru/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Domain.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Infrastructure.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Infrastructure.pdb
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Domain.pdb
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/staticwebassets/msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/staticwebassets/msbuild.build.API.props
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.API.props
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.API.props
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/scopedcss/bundle/API.styles.css
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/API.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/refint/API.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/API.pdb
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/obj/Debug/net7.0/ref/API.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/EPPlus.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/EPPlus.Interfaces.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/EPPlus.System.Drawing.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.Formats.Asn1.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.Security.Cryptography.Pkcs.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.Text.Encoding.CodePages.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.Text.Encodings.Web.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/System.Text.Json.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Security.Cryptography.Pkcs.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Text.Encoding.CodePages.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/API/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/appsettings.json
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/appsettings.Development.json
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/CollaborativeTasks
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/CollaborativeTasks.deps.json
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/CollaborativeTasks.runtimeconfig.json
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/CollaborativeTasks.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/CollaborativeTasks.pdb
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Azure.Core.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Azure.Identity.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/BouncyCastle.Cryptography.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/EPPlus.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/EPPlus.Interfaces.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/EPPlus.System.Drawing.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/K4os.Compression.LZ4.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/K4os.Compression.LZ4.Streams.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/K4os.Hash.xxHash.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Extensions.Primitives.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.SqlServer.Server.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/MySql.Data.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/MySql.EntityFrameworkCore.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.ClientModel.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Diagnostics.DiagnosticSource.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Formats.Asn1.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Memory.Data.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Security.Cryptography.Pkcs.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Text.Encoding.CodePages.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Text.Encodings.Web.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Text.Json.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/ZstdSharp.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/de/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/es/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/fr/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/it/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/ja/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/ko/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/pt-BR/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/ru/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/zh-Hans/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/zh-Hant/Microsoft.Data.SqlClient.resources.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win/lib/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win-x64/native/comerr64.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win-x64/native/gssapi64.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win-x64/native/k5sprt64.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win-x64/native/krb5_64.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win-x64/native/krbcc64.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.Messages.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Diagnostics.EventLog.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Drawing.Common.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Security.Cryptography.Pkcs.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Text.Encoding.CodePages.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/browser/lib/net7.0/System.Text.Encodings.Web.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/runtimes/win/lib/net7.0/System.Windows.Extensions.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Domain.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Infrastructure.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Infrastructure.pdb
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Domain.pdb
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/API.AssemblyInfoInputs.cache
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/API.AssemblyInfo.cs
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/API.csproj.CoreCompileInputs.cache
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/CollaborativeTasks.MvcApplicationPartsAssemblyInfo.cs
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/CollaborativeTasks.MvcApplicationPartsAssemblyInfo.cache
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/staticwebassets/msbuild.CollaborativeTasks.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/staticwebassets/msbuild.build.CollaborativeTasks.props
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.CollaborativeTasks.props
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.CollaborativeTasks.props
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/staticwebassets.build.json
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/staticwebassets.development.json
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/scopedcss/bundle/CollaborativeTasks.styles.css
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/CollaborativeTasks.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/refint/CollaborativeTasks.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/CollaborativeTasks.pdb
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/API.genruntimeconfig.cache
+/Users/jonathansteen/Documents/stage/api-csharp/API/obj/Debug/net7.0/ref/CollaborativeTasks.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/MySqlConnector.dll
+/Users/jonathansteen/Documents/stage/api-csharp/API/bin/Debug/net7.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\appsettings.json
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\CollaborativeTasks.exe
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\CollaborativeTasks.deps.json
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\CollaborativeTasks.runtimeconfig.json
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\CollaborativeTasks.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\CollaborativeTasks.pdb
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\EPPlus.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.ClientModel.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Domain.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Domain.pdb
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\CollaborativeTasks.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\CollaborativeTasks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets\msbuild.CollaborativeTasks.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets\msbuild.build.CollaborativeTasks.props
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CollaborativeTasks.props
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CollaborativeTasks.props
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\scopedcss\bundle\CollaborativeTasks.styles.css
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\CollaborativeTasks.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\refint\CollaborativeTasks.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\CollaborativeTasks.pdb
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\ref\CollaborativeTasks.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\API\obj\Debug\net7.0\API.csproj.Up2Date
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\appsettings.json
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\CollaborativeTasks.exe
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\CollaborativeTasks.deps.json
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\CollaborativeTasks.runtimeconfig.json
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\CollaborativeTasks.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\CollaborativeTasks.pdb
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\EPPlus.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\EPPlus.Interfaces.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\EPPlus.System.Drawing.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.ClientModel.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\ZstdSharp.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Text.Encoding.CodePages.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Domain.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Domain.pdb
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\API.csproj.AssemblyReference.cache
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\API.AssemblyInfoInputs.cache
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\API.AssemblyInfo.cs
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\API.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\CollaborativeTasks.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\CollaborativeTasks.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets\msbuild.CollaborativeTasks.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets\msbuild.build.CollaborativeTasks.props
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CollaborativeTasks.props
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CollaborativeTasks.props
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\scopedcss\bundle\CollaborativeTasks.styles.css
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\API.csproj.Up2Date
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\CollaborativeTasks.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\refint\CollaborativeTasks.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\CollaborativeTasks.pdb
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\API.genruntimeconfig.cache
+C:\Users\jonat\Downloads\stage\stage\api-csharp\API\obj\Debug\net7.0\ref\CollaborativeTasks.dll
