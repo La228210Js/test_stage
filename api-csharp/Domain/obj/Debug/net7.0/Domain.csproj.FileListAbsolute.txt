@@ -1,0 +1,44 @@
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Domain/bin/Debug/net7.0/Domain.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Domain/obj/Debug/net7.0/Domain.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Domain/obj/Debug/net7.0/ref/Domain.dll
+/Users/jonathansteen/Documents/stage/api-csharp/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/jonathansteen/Documents/stage/api-csharp/Domain/bin/Debug/net7.0/Domain.dll
+/Users/jonathansteen/Documents/stage/api-csharp/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/jonathansteen/Documents/stage/api-csharp/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathansteen/Documents/stage/api-csharp/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/jonathansteen/Documents/stage/api-csharp/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/jonathansteen/Documents/stage/api-csharp/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/jonathansteen/Documents/stage/api-csharp/Domain/obj/Debug/net7.0/Domain.dll
+/Users/jonathansteen/Documents/stage/api-csharp/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/jonathansteen/Documents/stage/api-csharp/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/jonathansteen/Documents/stage/api-csharp/Domain/obj/Debug/net7.0/ref/Domain.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Domain\obj\Debug\net7.0\ref\Domain.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Domain\bin\Debug\net7.0\Domain.deps.json
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Domain\bin\Debug\net7.0\Domain.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Domain\bin\Debug\net7.0\Domain.pdb
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.AssemblyInfoInputs.cache
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.AssemblyInfo.cs
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Domain\obj\Debug\net7.0\refint\Domain.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Domain\obj\Debug\net7.0\Domain.pdb
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Domain\obj\Debug\net7.0\ref\Domain.dll

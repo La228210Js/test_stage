@@ -1,0 +1,60 @@
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/bin/Debug/net7.0/Domain.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/bin/Debug/net7.0/Domain.pdb
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/Users/jonathansteen/RiderProjects/CollaborativeTasks/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/bin/Debug/net7.0/Infrastructure.deps.json
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/bin/Debug/net7.0/Infrastructure.dll
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/bin/Debug/net7.0/Infrastructure.pdb
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/bin/Debug/net7.0/Domain.dll
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/bin/Debug/net7.0/Domain.pdb
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/obj/Debug/net7.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/obj/Debug/net7.0/Infrastructure.AssemblyInfo.cs
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/obj/Debug/net7.0/Infrastructure.csproj.CopyComplete
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/obj/Debug/net7.0/Infrastructure.dll
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/obj/Debug/net7.0/refint/Infrastructure.dll
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/obj/Debug/net7.0/Infrastructure.pdb
+/Users/jonathansteen/Documents/stage/api-csharp/Infrastructure/obj/Debug/net7.0/ref/Infrastructure.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
+C:\Users\jonat\Downloads\stage 2\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\bin\Debug\net7.0\Infrastructure.deps.json
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\bin\Debug\net7.0\Infrastructure.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\bin\Debug\net7.0\Infrastructure.pdb
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\bin\Debug\net7.0\Domain.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\bin\Debug\net7.0\Domain.pdb
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.AssemblyReference.cache
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfoInputs.cache
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.AssemblyInfo.cs
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastr.15EFFBFE.Up2Date
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\obj\Debug\net7.0\refint\Infrastructure.dll
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\obj\Debug\net7.0\Infrastructure.pdb
+C:\Users\jonat\Downloads\stage\stage\api-csharp\Infrastructure\obj\Debug\net7.0\ref\Infrastructure.dll
