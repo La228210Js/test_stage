@@ -1,7 +1,8 @@
 Documentation d'installation
 
 1) Installation de la base de données via Docker
-docker run -p 3306:3306 --name collaborativeTasks -e MYSQL_DATABASE=CollaborativeTasksDb -e MYSQL_ROOT_PASSWORD=root -v "C:\Users\jonat\Desktop\test_stage-main\test_stage-main/init.sql:/docker-entrypoint-initdb.d/init.sql" -d mysql:5.7
+ATTENTION : Bien changer le chemin d'accès vers le init.sql (chemmin absolu)
+docker run -p 3306:3306 --name collaborativeTasks -e MYSQL_DATABASE=CollaborativeTasksDb -e MYSQL_ROOT_PASSWORD=root -v "C:/chemin/vers/le/fichier/init.sql:/docker-entrypoint-initdb.d/init.sql" -d mysql:5.7
 Si le container s'arrête tout de suite : docker start collaborativeTasks
 
 2) Lancement du back-end
